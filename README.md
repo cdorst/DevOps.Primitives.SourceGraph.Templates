@@ -29,4 +29,4 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-2.0.0
+2.0.1
